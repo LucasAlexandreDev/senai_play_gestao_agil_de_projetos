@@ -1,13 +1,8 @@
-# Business Plan
+# Tema
+Business Plan
 
 ## Data da Anotação
 01/04/26
-
-## Duração da Aula
-7h
-
-## Tema
-Business Plan
 
 ## Objetivo da Aula
 Saber identificar como, quanto vai custar, onde e como levantar capital, por quanto tempo serão vendidos os produtos ou serviços e como o lucro será adquirido.
