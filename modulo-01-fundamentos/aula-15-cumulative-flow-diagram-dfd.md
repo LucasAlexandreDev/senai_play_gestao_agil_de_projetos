@@ -2,7 +2,7 @@
 CFD — Cumulative Flow Diagram
 
 ## Data da Anotação
-02/04/26
+03/04/26
 
 ## Objetivo da Aula
 Compreender o que é o Cumulative Flow Diagram (CFD) e como utilizá-lo para acompanhar o fluxo de trabalho e identificar problemas em times ágeis
