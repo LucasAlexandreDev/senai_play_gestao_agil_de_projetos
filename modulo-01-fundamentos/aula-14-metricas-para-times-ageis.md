@@ -79,8 +79,8 @@ As métricas estão conectadas com:
 - medir apenas o necessário  
 - revisar métricas com frequência  
 - envolver o time na definição  
-- focar em melhoria contínua  
+- focar em melhoria contínua
 
 ## Resumo
 
-As métricas são ferramentas essenciais para acompanhar e melhorar o desempenho de times ágeis. Ao responder o que, por que e para que medir, o time garante que os dados sejam utilizados de forma estratégica, promov endo melhoria contínua, transparência e entregas de maior valor
+As métricas são ferramentas essenciais para acompanhar e melhorar o desempenho de times ágeis. Ao responder o que, por que e para que medir, o time garante que os dados sejam utilizados de forma estratégica, promovendo melhoria contínua, transparência e entregas de maior valor
