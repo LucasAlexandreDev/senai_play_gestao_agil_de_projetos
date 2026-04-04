@@ -113,10 +113,10 @@ Business Agility busca eliminar esses silos, promovendo integração entre equip
 
 O ambiente atual é caracterizado por:
 
-- **Volatilidade**  
-- **Incerteza**  
-- **Complexidade**  
-- **Ambiguidade**  
+V - **Volatilidade**  
+U - **Incerteza**  
+C - **Complexidade**  
+A - **Ambiguidade**  
 
 Nesse cenário, empresas precisam ser mais flexíveis e adaptáveis
 
